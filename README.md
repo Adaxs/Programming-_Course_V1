@@ -13,6 +13,7 @@ A brief overview of the topics explained in the first edition of the course
 
 
 ```
+
  <h1>Example text </h1>
   <h2>Example text </h2>
    <h3>Example text </h3>
@@ -26,6 +27,7 @@ A brief overview of the topics explained in the first edition of the course
 
 
 ```
+
 <div class="device-notification">
  
 ```
@@ -34,6 +36,7 @@ A brief overview of the topics explained in the first edition of the course
 ## Element 1 - Link
 
 ```
+
  <a class="link-css" href="https://yourpage.com">link text</a>
  
 ```
@@ -42,6 +45,7 @@ A brief overview of the topics explained in the first edition of the course
 ## Element 1 - Image
 
 ```
+
  <img src="assets/img/logo.png" alt="Global">
  
 ```
