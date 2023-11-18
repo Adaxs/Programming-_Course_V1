@@ -73,6 +73,21 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
+
+## Element 1 - Image
+
+```
+
+  <ul class="ul-list-css">
+            <li class="ul-list-css"><span>Home</span></li>
+            <li><span>About Me</span></li>
+            <li><span>Contact</span></li>
+            <li><span>Catalog</span></li>
+            <li><span>Hire us</span></li>
+          </ul>
+ 
+```
+
 Aave is a decentralized non-custodial liquidity markets protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
 
 ## Documentation
