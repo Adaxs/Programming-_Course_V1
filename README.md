@@ -33,10 +33,12 @@ A brief overview of the topics explained in the first edition of the course
 
 ## Element 1 - Container
 
+
 ```
 <div class="device-notification">
  
 ```
+
 
 ## Element 1 - Link
 
@@ -44,6 +46,7 @@ A brief overview of the topics explained in the first edition of the course
  <a class="link-css" href="https://yourpage.com">link text</a>
  
 ```
+
 
 ## Element 1 - Image
 
