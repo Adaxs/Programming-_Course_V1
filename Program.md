@@ -1,4 +1,4 @@
-# User Stories for techNotes
+# Programming Course V1
 
 1. [x] Basic Structure of an HTML Document
 2. [x] Common HTML Elements
