@@ -1,23 +1,56 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Build pass](https://github.com/AAVE/protocol-v2/actions/workflows/node.js.yml/badge.svg)](https://github.com/aave/protocol-v2/actions/workflows/node.js.yml)
 ```
-        .///.                .///.     //.            .//  `/////////////-
-       `++:++`              .++:++`    :++`          `++:  `++:......---.`
-      `/+: -+/`            `++- :+/`    /+/         `/+/   `++.
-      /+/   :+/            /+:   /+/    `/+/        /+/`   `++.
-  -::/++::`  /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.
-  -:+++::-`  `/+:      --++/---`  `++-    .++-    -++.     `++/:::::::::.
-   -++.       .++-      -++`       .++.    .++.  .++-      `++.
-  .++-         -++.    .++.         -++.    -++``++-       `++.
- `++:           :++`  .++-           :++`    :+//+:        `++:----------`
- -/:             :/-  -/:             :/.     ://:         `/////////////-
+                         .///.     //.            .//  `/////////////-
+       .++:++`   :++`          `++:  `++:......---.`      `/+:    -+/`            `++- :+/`    /+/         `/+/   `++.
+     /+/ :-+:`++ :++`:+\         /+:   /+/    `/+/        /+/`   `++.
+     /-::/++::`   :-++-:+\       /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.
+      /-:++/           `/+:\      --++/---`  `++-    .++-    -++.     `++/:::::::::.
+      /-++./           .++-/      -++`       .++.    .++.  .++-      `++.
+      /.++-/         ..++./         -++.    -++``++-       `++.
+      /`++:/         :++`/ .++-           :++`    :+//+:        `++:----------`
+     /-/:-+/          :-/             :/.     ://:         `/////////////-   
+     /```/:+/
+
+# Programming Course HTML/CSS 
+
+A brief overview of the topics explained in the first edition of the course 
+
+## What is HTML and the elements
+------------------------------------
+
+## Element 1 - Titles 
+
+```
+ <h1>Example text </h1>
+  <h2>Example text </h2>
+   <h3>Example text </h3>
+    <h4>Example text </h4>
+     <h5>Example text </h5>
+      <h6>Example text </h6>
+ 
 ```
 
-# Aave Protocol v2
+## Element 1 - Container
 
-This repository contains the smart contracts source code and markets configuration for Aave Protocol V2. The repository uses Docker Compose and Hardhat as development enviroment for compilation, testing and deployment tasks.
+```
+<div class="device-notification">
+ 
+```
 
-## What is Aave?
+## Element 1 - Link
+
+```
+ <a class="link-css" href="https://yourpage.com">link text</a>
+ 
+```
+
+## Element 1 - Image
+
+```
+ <img src="assets/img/logo.png" alt="Global">
+ 
+```
 
 Aave is a decentralized non-custodial liquidity markets protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
 
