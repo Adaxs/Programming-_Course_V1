@@ -7,6 +7,29 @@ A brief overview of the topics explained in the first edition of the course
 ## What is HTML and the elements
 ------------------------------------
 
+## Element 1 - <head></head> Section
+
+
+
+
+```
+
+<head>
+  <title>My Webpage</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="HTML5 website template">
+  <meta name="keywords" content="global, template, html, sass, jquery">
+  <meta name="author" content="AdamGO">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+ 
+```
+
 ## Element 1 - Titles 
 
 
