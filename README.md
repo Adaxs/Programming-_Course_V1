@@ -7,7 +7,7 @@ A brief overview of the topics explained in the first edition of the course
 ## What is HTML and the elements
 ------------------------------------
 
-## Element 1 - <head></head> Section
+## Element 1 - head Section
 
 
 
@@ -30,7 +30,7 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
-## Element 1 - <div></div>
+## Element 1 - div Section
 
 
 ```
@@ -39,7 +39,7 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
-## Element 1 - Titles 
+## Element 1 - h1,h2,h3,h4,h5,h6 Section
 
 
 
