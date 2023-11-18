@@ -7,7 +7,7 @@ A brief overview of the topics explained in the first edition of the course
 ## What is HTML and the elements
 ------------------------------------
 
-## Element 1 - head Section
+## Element 1 - head, - Section
 
 
 
@@ -30,7 +30,7 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
-## Element 1 - div Section
+## Element 1 - div, - Section
 
 
 ```
@@ -39,7 +39,7 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
-## Element 1 - h1,h2,h3,h4,h5,h6 Section
+## Element 1 - h1,h2,h3,h4,h5,h6 Section Title Headings (largest to smallest
 
 
 
@@ -55,8 +55,16 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
+## Element 1 - p, - Section Paragraph
 
-## Element 1 - Link
+```
+
+  <p>Example of larger text under the .</p>
+ 
+```
+
+
+## Element 1 - a, - a, - Section Hyperlink
 
 ```
 
@@ -65,7 +73,7 @@ A brief overview of the topics explained in the first edition of the course
 ```
 
 
-## Element 1 - Image
+## Element 1 - img, - Section Image
 
 ```
 
@@ -74,7 +82,7 @@ A brief overview of the topics explained in the first edition of the course
 ```
 
 
-## Element 1 - Image
+## Element 1 - ul,li - Section Unordered list
 
 ```
 
@@ -87,6 +95,10 @@ A brief overview of the topics explained in the first edition of the course
           </ul>
  
 ```
+
+
+
+
 
 Aave is a decentralized non-custodial liquidity markets protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.
 
