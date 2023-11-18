@@ -30,6 +30,15 @@ A brief overview of the topics explained in the first edition of the course
  
 ```
 
+## Element 1 - <div></div>
+
+
+```
+
+<div class="device-notification">
+ 
+```
+
 ## Element 1 - Titles 
 
 
@@ -43,15 +52,6 @@ A brief overview of the topics explained in the first edition of the course
     <h4>Example text </h4>
      <h5>Example text </h5>
       <h6>Example text </h6>
- 
-```
-
-## Element 1 - Container
-
-
-```
-
-<div class="device-notification">
  
 ```
 
